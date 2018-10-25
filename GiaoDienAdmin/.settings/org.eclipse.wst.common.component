@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="GiaoDienAdmin">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="GiaoDienAdmin"/>
+        <property name="java-output-path" value="/GiaoDienAdmin/build/classes"/>
+    </wb-module>
+</project-modules>
